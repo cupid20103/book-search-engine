@@ -21,6 +21,7 @@
     <img src="https://img.shields.io/badge/express-red" />
     <img src="https://img.shields.io/badge/react-green" />
     <img src="https://img.shields.io/badge/node-gray" />
+    <img src="https://img.shields.io/badge/graphQL-yellow" />
     <img src="https://img.shields.io/badge/apollo-blue" />
 </p>
    
