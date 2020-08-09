@@ -1,10 +1,8 @@
 import React, { useState, useEffect } from 'react';
-import { Jumbotron, Container, Col, Form, Button, Card, CardColumns } from 'react-bootstrap';
-
 import Auth from '../utils/auth';
+import { Jumbotron, Container, Col, Form, Button, Card, CardColumns } from 'react-bootstrap';
 import { searchGoogleBooks } from '../utils/API';
 import { saveBookIds, getSavedBookIds } from '../utils/localStorage';
-
 import { SAVE_BOOK } from '../utils/mutations';
 import { useMutation } from '@apollo/react-hooks';
 
@@ -35,7 +33,7 @@ const SearchBooks = () => {
       const response = await searchGoogleBooks(searchInput);
 
       if (!response.ok) {
-        throw new Error('something went wrong!');
+        throw new Error('Something went wrong!');
       }
 
       const { items } = await response.json();

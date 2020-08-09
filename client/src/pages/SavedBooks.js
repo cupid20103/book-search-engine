@@ -1,11 +1,10 @@
 import React from 'react';
-import { Jumbotron, Container, CardColumns, Card, Button } from 'react-bootstrap';
 import Auth from '../utils/auth';
+import { Jumbotron, Container, CardColumns, Card, Button } from 'react-bootstrap';
 import { removeBookId } from '../utils/localStorage';
-
 import { useQuery, useMutation } from '@apollo/react-hooks';
-import { GET_USER } from '../utils/queries';
 import { REMOVE_BOOK } from '../utils/mutations';
+import { GET_USER } from '../utils/queries';
 
 const SavedBooks = () => {
   const [removeBook, { error }] = useMutation(REMOVE_BOOK);
@@ -55,7 +54,7 @@ const SavedBooks = () => {
       });
 
       if (error) {
-        throw new Error('something went wrong!');
+        throw new Error('Something went wrong!');
       }
 
       removeBookId(bookId);
