@@ -29,7 +29,7 @@
 
 🔍 A MERN stack application using Google Books API that allows a user to login, search books and save favorites.
 
-**[Deployed Application](https://jpd61.github.io/jpd-react-portfolio)**
+**[Deployed Application](https://murmuring-tor-75740.herokuapp.com/)**
   
 💻 Below is a screenshot of the application:
   
