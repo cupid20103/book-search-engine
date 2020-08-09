@@ -26,7 +26,7 @@
    
 ## Description
 
-🔍 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Personal full stack development portfolio.
+🔍 A MERN stack application using Google Books API that allows a user to login, search books and save favorites.
 
 **[Deployed Application](https://jpd61.github.io/jpd-react-portfolio)**
   
