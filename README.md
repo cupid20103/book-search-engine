@@ -28,7 +28,7 @@
   
 💻 Below is a screenshot of the application:
   
-![book-search-engine](https://github.com/jpd61/jpd-react-portfolio/raw/master/src/assets/images/Capture.PNG)
+![book-search-engine](https://github.com/jpd61/book-search-engine/raw/master/Capture.PNG)
 
 ## User Story
 
