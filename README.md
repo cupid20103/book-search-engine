@@ -3,37 +3,14 @@
 </p>
 
 <h1 align="center"> Book Search Engine 👋</h1>
-  
-<p align="center">
-    <img src="https://img.shields.io/github/repo-size/jpd61/book-search-engine" />
-    <img src="https://img.shields.io/github/languages/top/book-search-engine"  />
-    <img src="https://img.shields.io/github/issues/jpd61/book-search-engine" />
-    <img src="https://img.shields.io/github/last-commit/jpd61/book-search-engine" >
-    <a href="https://github.com/jpd61"><img src="https://img.shields.io/github/followers/jpd61?style=social" target="_blank" /></a>
-    <a href="https://twitter.com/jpdewoody">
-        <img alt="Twitter: jpdewoody" src="https://img.shields.io/twitter/follow/jpdewoody.svg?style=social" target="_blank" />
-    </a>
-</p>
-  
-<p align="center">
-    <img src="https://img.shields.io/badge/javascript-yellow" />
-    <img src="https://img.shields.io/badge/mongoDB-purple" />
-    <img src="https://img.shields.io/badge/express-red" />
-    <img src="https://img.shields.io/badge/react-green" />
-    <img src="https://img.shields.io/badge/node-gray" />
-    <img src="https://img.shields.io/badge/graphQL-yellow" />
-    <img src="https://img.shields.io/badge/apollo-blue" />
-</p>
    
 ## Description
 
 🔍 A MERN stack application using Google Books API that allows a user to login, search books and save favorites.
-
-**[Deployed Application](https://murmuring-tor-75740.herokuapp.com/)**
   
 💻 Below is a screenshot of the application:
   
-![book-search-engine](https://github.com/jpd61/book-search-engine/raw/master/Capture.PNG)
+![book-search-engine](https://github.com/cupid20103/book-search-engine/raw/master/Capture.PNG)
 
 ## User Story
 
@@ -88,8 +65,6 @@ THEN I am logged out of the site and presented with a menu with the options Sear
   - [`npm run build`](#npm-run-build)
   - [`npm run eject`](#npm-run-eject)
 - [Testing](#testing)
-- [Contributing](#contributing)
-- [Questions](#questions)
 
 ## Available Scripts
 
@@ -132,11 +107,3 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 ✏️
 
 No current testing
-
-## Contributing
-:octocat: [Joseph DeWoody](https://github.com/jpd61)
-
-## Questions
-✉️ Contact me with any questions: [email](mailto:jpd@dewoodyoil.com) , [GitHub](https://github.com/jpd61)<br />
-
-[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/jpd61/)
